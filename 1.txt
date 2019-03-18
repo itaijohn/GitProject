@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-first
-=======
 second
->>>>>>> new
 second
+third
